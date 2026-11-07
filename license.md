@@ -214,6 +214,6 @@ matches and a separate one for private testing.
 | **License** | Shared under the MIT License |
 | **Instructions** | the button in the Quick Start section |
 
-*Updated 2026-11-06 · Shared under the MIT License*
+*Updated 2026-11-07 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-06 -->
+<!-- last reviewed 2026-11-07 -->
